@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rwanda Bruno</h1>
+<h1 align="center">Hi 👋, I'm GATERA Caleb Calvin</h1>
 <h3 align="center">A passionate frontend and Backend developer</h3>
 
 ![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4E16AQFW-06yWMd1yQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZOlavsHcAc-/0/1745075166142?e=1750291200&v=beta&t=Y3PMiUuvalxB5i1vCzrdmFlDgUJAdp6fxnjmiai1WvQ)
@@ -37,10 +37,9 @@
 <br/>
 
 <p align="center">
-<a href="https://x.com/rwanda_bruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GATERAcalvin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rwanda-bruno-b5b5542a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunorwanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gatera-caleb-calvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunorwanda" height="30" width="40" /></a>
 <a href="https://fb.com/bruno rwanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bruno rwanda" height="30" width="40" /></a>
-<a href="https://instagram.com/bruno_rwanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruno_rwanda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/blxk_shm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruno_rwanda" height="30" width="40" /></a>
 </p>
 
 
