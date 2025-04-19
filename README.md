@@ -24,14 +24,12 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=rust,python,html,css,typescript,javascript,bootstrap,tailwind,php,dart,git," />
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,docker,mongodb,postgresql,nodejs,react,express,nextjs,vue,rocket,tauri,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,docker,mongodb,postgresql,nodejs,react,express,nextjs,vue,flutter" /><br>
 </div>
 
 # 📊 GitHub Stats
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GATERAcaidy_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" >
-
-<img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GATERAcaidy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" >
 
 <h3 align="center">🤙🏽 Connect with me 🤙🏽</h3>
 <br/>
