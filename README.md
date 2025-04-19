@@ -3,7 +3,7 @@
 
 ![I am Software Engineer](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-<h3 align="center">A passionate software developer and software architects</h3>
+<h3 align="center">A passionate UI/UX Designer also software developer and software architects</h3>
 
 
 <div align="center">
