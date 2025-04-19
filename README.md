@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GATERA Caleb Calvin</h1>
 <h3 align="center">A passionate frontend and Backend developer</h3>
 
-![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4E16AQFW-06yWMd1yQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZOlavsHcAc-/0/1745075166142?e=1750291200&v=beta&t=Y3PMiUuvalxB5i1vCzrdmFlDgUJAdp6fxnjmiai1WvQ)
+![I am Software Engineer](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 <h3 align="center">A passionate software developer and software architects</h3>
 
