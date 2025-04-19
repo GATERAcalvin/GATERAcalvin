@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm GATERA Caleb Calvin</h1>
-<h3 align="center">A passionate frontend and Backend developer</h3>
 
 ![I am Software Engineer](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
