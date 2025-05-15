@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **IPS Company Website**
+ 🔭 I’m currently working on **TechTrendz WebApp**
  
  🌱 I’m currently learning **Docker, Rust, AWS**
 
