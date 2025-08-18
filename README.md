@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,html,css,typescript,javascript,bootstrap,tailwind,php,dart,git," />
+    <img src="https://skillicons.dev/icons?i=python,html,css,typescript,javascript,bootstrap,tailwind,php,dart,git," />
     <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,docker,mongodb,postgresql,nodejs,react,express,nextjs,vue,flutter" /><br>
 </div>
 
