@@ -7,13 +7,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **TechTrendz WebApp**
+ 🔭 I’m currently working on **J.A.R.V.I.S**
  
  🌱 I’m currently learning **Docker, Rust, AWS**
 
 💬 Ask me about **Node.js, React, Rust or anything [here](https://github.com/GATERAcalvin)**
 
-⚡ Fun fact **Leaning new this on software and IOT**
+⚡ Fun fact **Leaning new things on software and IOT**
 
  </div>
 
